@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="mydream" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/mydream" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/mydream" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Introduction.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Introduction.h" />
+		<Unit filename="Introduction.txt" />
+		<Unit filename="add.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="add.h" />
+		<Unit filename="add_staff.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="add_staff.h" />
+		<Unit filename="blood.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="blood.h" />
+		<Unit filename="blood.txt" />
+		<Unit filename="delete.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="delete.h" />
+		<Unit filename="delete.txt" />
+		<Unit filename="delete_staff.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="delete_staff.h" />
+		<Unit filename="delete_staff.txt" />
+		<Unit filename="doctor.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="doctor.h" />
+		<Unit filename="doctor.txt" />
+		<Unit filename="header.h" />
+		<Unit filename="list.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="list.h" />
+		<Unit filename="list_staff.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="list_staff.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="mew.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="mew.h" />
+		<Unit filename="modify.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="modify.h" />
+		<Unit filename="modify_staff.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="modify_staff.h" />
+		<Unit filename="option.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="option.h" />
+		<Unit filename="patient.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="patient.h" />
+		<Unit filename="patient.txt" />
+		<Unit filename="print.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="print.h" />
+		<Unit filename="print_staff.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="print_staff.h" />
+		<Unit filename="read.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="read.h" />
+		<Unit filename="restore.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="restore.h" />
+		<Unit filename="restore_staff.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="restore_staff.h" />
+		<Unit filename="search.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="search.h" />
+		<Unit filename="search_staff.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="search_staff.h" />
+		<Unit filename="staff.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="staff.h" />
+		<Unit filename="staff.txt" />
+		<Unit filename="structure.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

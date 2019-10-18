@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="delete.h" open="1" top="0" tabpos="24" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="16" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="structure.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="484" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="print.c" open="1" top="0" tabpos="26" split="0" active="1" splitpos="0" zoom_1="7" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="721" topLine="13" />
+		</Cursor>
+	</File>
+	<File name="header.h" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="393" topLine="4" />
+		</Cursor>
+	</File>
+	<File name="blood.txt" open="1" top="0" tabpos="34" split="0" active="1" splitpos="0" zoom_1="7" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="282" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="modify.c" open="1" top="0" tabpos="17" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1626" topLine="88" />
+		</Cursor>
+	</File>
+	<File name="delete.c" open="1" top="0" tabpos="23" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="mew.c" open="1" top="0" tabpos="29" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="942" topLine="52" />
+		</Cursor>
+	</File>
+	<File name="add.c" open="1" top="0" tabpos="19" split="0" active="1" splitpos="0" zoom_1="7" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="374" topLine="36" />
+		</Cursor>
+	</File>
+	<File name="patient.c" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="183" topLine="3" />
+		</Cursor>
+	</File>
+	<File name="restore.h" open="1" top="0" tabpos="30" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="add_staff.h" open="1" top="0" tabpos="41" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="19" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="blood.h" open="1" top="0" tabpos="33" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="13" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="doctor.txt" open="1" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="194" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="add_staff.c" open="1" top="0" tabpos="40" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="290" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="list.h" open="1" top="0" tabpos="22" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="14" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="search.c" open="1" top="0" tabpos="15" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3167" topLine="90" />
+		</Cursor>
+	</File>
+	<File name="add.h" open="1" top="0" tabpos="20" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="13" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="option.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="14" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="blood.c" open="1" top="0" tabpos="32" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="207" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="restore_staff.c" open="1" top="0" tabpos="46" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="200" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Introduction.c" open="1" top="0" tabpos="36" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="135" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="delete_staff.h" open="1" top="0" tabpos="47" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="22" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="staff.h" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Introduction.h" open="1" top="0" tabpos="37" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="22" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="print.h" open="1" top="0" tabpos="27" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="17" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="print_staff.c" open="1" top="0" tabpos="45" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="36" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="search_staff.h" open="1" top="0" tabpos="39" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="22" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Introduction.txt" open="1" top="0" tabpos="35" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="16" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="print_staff.h" open="1" top="0" tabpos="50" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="11" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="mew.h" open="1" top="0" tabpos="28" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="11" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="modify_staff.h" open="1" top="0" tabpos="49" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="12" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="restore_staff.h" open="1" top="0" tabpos="51" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="list.c" open="1" top="0" tabpos="21" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="167" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="staff.c" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="8" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="98" topLine="48" />
+		</Cursor>
+	</File>
+	<File name="read.c" open="1" top="0" tabpos="52" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1036" topLine="9" />
+		</Cursor>
+	</File>
+	<File name="staff.txt" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="33" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="patient.txt" open="1" top="1" tabpos="9" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="40" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="read.h" open="1" top="0" tabpos="53" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="15" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="doctor.c" open="1" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="410" topLine="3" />
+		</Cursor>
+	</File>
+	<File name="modify_staff.c" open="1" top="0" tabpos="42" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="208" topLine="77" />
+		</Cursor>
+	</File>
+	<File name="delete.txt" open="1" top="0" tabpos="25" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="search_staff.c" open="1" top="0" tabpos="38" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="111" topLine="85" />
+		</Cursor>
+	</File>
+	<File name="restore.c" open="1" top="0" tabpos="31" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="28" />
+		</Cursor>
+	</File>
+	<File name="patient.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="14" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="list_staff.c" open="1" top="0" tabpos="44" split="0" active="1" splitpos="0" zoom_1="7" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="85" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="delete_staff.c" open="1" top="0" tabpos="43" split="0" active="1" splitpos="0" zoom_1="7" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="370" topLine="67" />
+		</Cursor>
+	</File>
+	<File name="list_staff.h" open="1" top="0" tabpos="48" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="9" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="option.c" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="7" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="863" topLine="3" />
+		</Cursor>
+	</File>
+	<File name="modify.h" open="1" top="0" tabpos="18" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="18" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="search.h" open="1" top="0" tabpos="16" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="16" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="doctor.h" open="1" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

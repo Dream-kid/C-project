@@ -1,0 +1,185 @@
+#include <Windows.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <conio.h>
+#include <string.h>
+#include <dos.h>
+#include <time.h>
+#include <ctype.h>
+typedef struct
+{
+    int dd,mm,yy;
+} Date;
+
+void design()
+{
+    system("cls");
+    gotoxy(1,1);
+    printf("&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&");
+    gotoxy(1,2);
+    printf("&");
+    gotoxy(100,2);
+    printf("&");
+    int i;
+    for(i=3; i<27; i++)
+    {
+        gotoxy(1,i);
+        printf("\xdb");
+        gotoxy(100,i);
+        printf("\xdb");
+    }
+    gotoxy(1,27);
+    printf("&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&");
+    gotoxy(2,26);
+    Time();
+    gotoxy(84,26);
+    date();
+
+}
+
+
+COORD coord = {0, 0}; // sets coordinates to 0,0
+void gotoxy (int x, int y)
+{
+    coord.X = x;
+    coord.Y = y; // X and Y coordinates
+    SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE), coord);
+}
+void  delay(unsigned int mseconds)
+{
+    clock_t goal=mseconds+clock();
+    while (goal>clock());
+}
+
+
+int Time()
+{
+    char dest[50];
+    time_t t;
+    struct tm *tm;
+    char pm[3],HH[3],MM[3],SS[3];
+    t=time(NULL);
+    tm=localtime(&t);
+
+    strftime(dest,50,"%I %M %S %p",tm);
+    sscanf(dest,"%s %s %s %s",&HH,&MM,&SS,pm);
+    printf("Time: %s:%s:%s %s\n",HH,MM,SS,pm);
+}
+int date()
+{
+    char dest[50];
+    time_t t;
+    struct tm *tm;
+    int dd,mm,yy;
+    t=time(NULL);
+    tm=localtime(&t);
+
+    strftime(dest,50,"%d %m %y",tm);
+    sscanf(dest,"%d %d %d",&dd,&mm,&yy);
+    printf("Date: %d/%d/%d\n",dd,mm,yy);
+}
+/*void Password(){
+    char password1[20]="librarian";
+    char password[20]="library";
+    system("cls");
+    design();
+    gotoxy(15,4);
+    printf("\xb2\xb2\xb1\xb2\xb2\xb1\xb2\xb2\xb1\xb2\xb2\xb1\xb2\xb2\xb1\xb2\xb2\xb1\xb2\xb2\xb1\xb2\xb2\xb1 Password Protected \xb1\xb2\xb2\xb1\xb2\xb2\xb1\xb2\xb2\xb1\xb2\xb2\xb1\xb2\xb2\xb1\xb2\xb2\xb1\xb2\xb2");
+    char word[20],ch;
+    int i=0;
+    gotoxy(15,6);
+    printf("\xb2\xb2\xb1 What your position? \xb1\xb2\xb2");
+    gotoxy(15,7);
+    printf("1. Librarian");
+    gotoxy(15,8);
+    printf("2. Assistant Librarian");
+    gotoxy(15,9);
+    printf("3. Student");
+    gotoxy(15,10);
+    printf("4. Other");
+    gotoxy(15,11);
+    printf("--------------------------");
+    gotoxy(15,12);
+    printf("Enter your position:");
+    int a;
+    scanf("%d",&a);
+    if(a==2||a==3||a==4){
+    gotoxy(15,14);
+    printf("Enter Password:");
+    while(ch!=13){
+        ch=getch();
+        if(ch!=13){
+           putch('*');
+           word[i++]=ch;
+        }
+    }
+    word[i]='\0';
+    if(strcmp(word,password)==0){
+        gotoxy(22,17);
+        printf("\xdb\xb2\xb2\xb1\xb1\xb1 Password Match \xb1\xb1\xb1\xb2\xb2\xdb");
+        gotoxy(35,20);
+        printf("Press any key to continue........");
+        getch();
+        mainmenu();
+    }
+    else{
+        gotoxy(15,17);
+        printf("\aWarning!! Incorrect Password\a");
+        gotoxy(35,20);
+        printf("Press enter key to \"Retry\"");
+        if(getchar()=='\n'){
+           Password();
+        }
+    }
+    }
+    else if(a==1){
+        gotoxy(15,14);
+    printf("Enter Password:");
+    while(ch!=13){
+        ch=getch();
+        if(ch!=13){
+           putch('*');
+           word[i++]=ch;
+        }
+    }
+    word[i]='\0';
+    if(strcmp(word,password1)==0){
+        gotoxy(22,17);
+        printf("\xdb\xb2\xb2\xb1\xb1\xb1 Password Match \xb1\xb1\xb1\xb2\xb2\xdb");
+        gotoxy(35,20);
+        printf("Press any key to continue........");
+        getch();
+        mainmenu();
+    }
+    else{
+        gotoxy(15,17);
+        printf("\aWarning!! Incorrect Password\a");
+        gotoxy(35,20);
+        printf("Press enter key to \"Retry\"");
+        if(getchar()=='\n'){
+           Password();
+        }
+    }
+    }
+    else{
+        gotoxy(15,17);
+        printf("\aWarning Enter\a");
+        gotoxy(35,20);
+        printf("Press any key to \"Retry\"");
+        getchar();
+        Password();
+    }
+}
+int checkid(int t)  //check whether the book is exist in library or not
+{
+    rewind(fp);
+    while(fread(&book,sizeof(book),1,fp)==1){
+    if(book.id==t){
+       return 0;  //returns 0 if book exits
+    }
+    }
+    return 1; //return 1 if it not
+    */
+
+
+

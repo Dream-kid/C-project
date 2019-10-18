@@ -1,0 +1,445 @@
+# depslib dependency file v1.0
+1512359720 source:c:\users\sourav\desktop\mydream\main.c
+	"header.h"
+
+1511712044 c:\users\sourav\desktop\mydream\option.h
+
+1512354872 source:c:\users\sourav\desktop\mydream\option.c
+	"header.h"
+
+1511730164 source:c:\users\sourav\desktop\mydream\medicine.c
+	<stdio.h>
+	"structure.h"
+
+1512354862 source:c:\users\sourav\desktop\mydream\patient.c
+	"header.h"
+	"structure.h"
+
+1511712183 c:\users\sourav\desktop\mydream\medicine.h
+
+1511712183 c:\users\sourav\desktop\mydream\patient.h
+
+1512316966 c:\users\sourav\desktop\mydream\structure.h
+
+1512317196 source:c:\users\sourav\desktop\mydream\staff.c
+	"header.h"
+	"structure.h"
+
+1511729217 c:\users\sourav\desktop\mydream\staff.h
+
+1512317615 c:\users\sourav\desktop\mydream\header.h
+	<stdio.h>
+	<stdlib.h>
+	"option.h"
+	"patient.h"
+	"modify.h"
+	"modify_staff.h"
+	"mew.h"
+	"staff.h"
+	"doctor.h"
+	"delete.h"
+	"delete_staff.h"
+	"restore.h"
+	"restore_staff.h"
+	"print.h"
+	"print_staff.h"
+	"search.h"
+	"search_staff.h"
+	<string.h>
+	<Windows.h>
+	<conio.h>
+	<string.h>
+	<dos.h>
+	<time.h>
+	<ctype.h>
+
+1511729217 c:\users\sourav\desktop\mydream\doctor.h
+
+1512273294 source:c:\users\sourav\desktop\mydream\doctor.c
+	"header.h"
+	"structure.h"
+
+1512270155 source:c:\users\sourav\desktop\mydream\search.c
+	"structure.h"
+	"header.h"
+
+1512359485 source:c:\users\sourav\desktop\mydream\modify.c
+	"structure.h"
+	"header.h"
+
+1512359478 source:c:\users\sourav\desktop\mydream\add.c
+	"structure.h"
+	"header.h"
+
+1512269793 source:c:\users\sourav\desktop\mydream\delete.c
+	"structure.h"
+	"header.h"
+
+1512270155 source:c:\users\sourav\desktop\mydream\list.c
+	"structure.h"
+	"header.h"
+
+1512358476 source:c:\users\sourav\desktop\mydream\print.c
+	"structure.h"
+	"header.h"
+
+1512224907 c:\users\sourav\desktop\mydream\mew.h
+
+1512319284 source:c:\users\sourav\desktop\mydream\mew.c
+	"header.h"
+
+1512271251 source:c:\users\sourav\desktop\mydream\restore.c
+	"structure.h"
+	"header.h"
+
+1512276649 source:c:\users\sourav\desktop\mydream\blood.c
+	"header.h"
+	"structure.h"
+
+1512320752 source:c:\users\sourav\desktop\mydream\introduction.c
+	"header.h"
+
+1512316907 source:c:\users\sourav\desktop\mydream\add_staff.c
+	"structure.h"
+	"header.h"
+
+1512316907 source:c:\users\sourav\desktop\mydream\delete_staff.c
+	"structure.h"
+	"header.h"
+
+1512316907 source:c:\users\sourav\desktop\mydream\list_staff.c
+	"structure.h"
+	"header.h"
+
+1512316907 source:c:\users\sourav\desktop\mydream\modify_staff.c
+	"structure.h"
+	"header.h"
+
+1512316907 source:c:\users\sourav\desktop\mydream\print_staff.c
+	"structure.h"
+	"header.h"
+
+1512316907 source:c:\users\sourav\desktop\mydream\restore_staff.c
+	"structure.h"
+	"header.h"
+
+1512316907 source:c:\users\sourav\desktop\mydream\search_staff.c
+	"structure.h"
+	"header.h"
+
+1512219251 c:\users\sourav\desktop\mydream\modify.h
+
+1512316907 c:\users\sourav\desktop\mydream\modify_staff.h
+
+1512221145 c:\users\sourav\desktop\mydream\delete.h
+
+1512316907 c:\users\sourav\desktop\mydream\delete_staff.h
+
+1512271387 c:\users\sourav\desktop\mydream\restore.h
+
+1512316907 c:\users\sourav\desktop\mydream\restore_staff.h
+
+1512220406 c:\users\sourav\desktop\mydream\print.h
+
+1512316907 c:\users\sourav\desktop\mydream\print_staff.h
+
+1512152977 c:\users\sourav\desktop\mydream\search.h
+
+1512316907 c:\users\sourav\desktop\mydream\search_staff.h
+
+1512358728 source:c:\users\sourav\desktop\mydream\read.c
+	"structure.h"
+	"header.h"
+
+1512359480 source:i:\mydream\add.c
+	"structure.h"
+	"header.h"
+
+1512316968 i:\mydream\structure.h
+
+1512317616 i:\mydream\header.h
+	<stdio.h>
+	<stdlib.h>
+	"option.h"
+	"patient.h"
+	"modify.h"
+	"modify_staff.h"
+	"mew.h"
+	"staff.h"
+	"doctor.h"
+	"delete.h"
+	"delete_staff.h"
+	"restore.h"
+	"restore_staff.h"
+	"print.h"
+	"print_staff.h"
+	"search.h"
+	"search_staff.h"
+	<string.h>
+	<Windows.h>
+	<conio.h>
+	<string.h>
+	<dos.h>
+	<time.h>
+	<ctype.h>
+
+1511712046 i:\mydream\option.h
+
+1511712184 i:\mydream\patient.h
+
+1512219252 i:\mydream\modify.h
+
+1512316908 i:\mydream\modify_staff.h
+
+1512224908 i:\mydream\mew.h
+
+1511729218 i:\mydream\staff.h
+
+1511729218 i:\mydream\doctor.h
+
+1512221146 i:\mydream\delete.h
+
+1512316908 i:\mydream\delete_staff.h
+
+1512271388 i:\mydream\restore.h
+
+1512316908 i:\mydream\restore_staff.h
+
+1512220408 i:\mydream\print.h
+
+1512316908 i:\mydream\print_staff.h
+
+1512152978 i:\mydream\search.h
+
+1512316908 i:\mydream\search_staff.h
+
+1512316908 source:i:\mydream\add_staff.c
+	"structure.h"
+	"header.h"
+
+1512276650 source:i:\mydream\blood.c
+	"header.h"
+	"structure.h"
+
+1512269794 source:i:\mydream\delete.c
+	"structure.h"
+	"header.h"
+
+1512316908 source:i:\mydream\delete_staff.c
+	"structure.h"
+	"header.h"
+
+1512273296 source:i:\mydream\doctor.c
+	"header.h"
+	"structure.h"
+
+1512320754 source:i:\mydream\introduction.c
+	"header.h"
+
+1512270156 source:i:\mydream\list.c
+	"structure.h"
+	"header.h"
+
+1512316908 source:i:\mydream\list_staff.c
+	"structure.h"
+	"header.h"
+
+1512359722 source:i:\mydream\main.c
+	"header.h"
+
+1512319286 source:i:\mydream\mew.c
+	"header.h"
+
+1512359486 source:i:\mydream\modify.c
+	"structure.h"
+	"header.h"
+
+1512316908 source:i:\mydream\modify_staff.c
+	"structure.h"
+	"header.h"
+
+1512354874 source:i:\mydream\option.c
+	"header.h"
+
+1512354864 source:i:\mydream\patient.c
+	"header.h"
+	"structure.h"
+
+1512358478 source:i:\mydream\print.c
+	"structure.h"
+	"header.h"
+
+1512316908 source:i:\mydream\print_staff.c
+	"structure.h"
+	"header.h"
+
+1512358730 source:i:\mydream\read.c
+	"structure.h"
+	"header.h"
+
+1512271252 source:i:\mydream\restore.c
+	"structure.h"
+	"header.h"
+
+1512316908 source:i:\mydream\restore_staff.c
+	"structure.h"
+	"header.h"
+
+1512270156 source:i:\mydream\search.c
+	"structure.h"
+	"header.h"
+
+1512316908 source:i:\mydream\search_staff.c
+	"structure.h"
+	"header.h"
+
+1512317198 source:i:\mydream\staff.c
+	"header.h"
+	"structure.h"
+
+1512359480 source:h:\mydream\add.c
+	"structure.h"
+	"header.h"
+
+1512316968 h:\mydream\structure.h
+
+1512317616 h:\mydream\header.h
+	<stdio.h>
+	<stdlib.h>
+	"option.h"
+	"patient.h"
+	"modify.h"
+	"modify_staff.h"
+	"mew.h"
+	"staff.h"
+	"doctor.h"
+	"delete.h"
+	"delete_staff.h"
+	"restore.h"
+	"restore_staff.h"
+	"print.h"
+	"print_staff.h"
+	"search.h"
+	"search_staff.h"
+	<string.h>
+	<Windows.h>
+	<conio.h>
+	<string.h>
+	<dos.h>
+	<time.h>
+	<ctype.h>
+
+1511712046 h:\mydream\option.h
+
+1511712184 h:\mydream\patient.h
+
+1512219252 h:\mydream\modify.h
+
+1512316908 h:\mydream\modify_staff.h
+
+1512224908 h:\mydream\mew.h
+
+1511729218 h:\mydream\staff.h
+
+1511729218 h:\mydream\doctor.h
+
+1512221146 h:\mydream\delete.h
+
+1512316908 h:\mydream\delete_staff.h
+
+1512271388 h:\mydream\restore.h
+
+1512316908 h:\mydream\restore_staff.h
+
+1512220408 h:\mydream\print.h
+
+1512316908 h:\mydream\print_staff.h
+
+1512152978 h:\mydream\search.h
+
+1512316908 h:\mydream\search_staff.h
+
+1512316908 source:h:\mydream\add_staff.c
+	"structure.h"
+	"header.h"
+
+1512276650 source:h:\mydream\blood.c
+	"header.h"
+	"structure.h"
+
+1512269794 source:h:\mydream\delete.c
+	"structure.h"
+	"header.h"
+
+1512316908 source:h:\mydream\delete_staff.c
+	"structure.h"
+	"header.h"
+
+1512273296 source:h:\mydream\doctor.c
+	"header.h"
+	"structure.h"
+
+1512320754 source:h:\mydream\introduction.c
+	"header.h"
+
+1512270156 source:h:\mydream\list.c
+	"structure.h"
+	"header.h"
+
+1512316908 source:h:\mydream\list_staff.c
+	"structure.h"
+	"header.h"
+
+1512359722 source:h:\mydream\main.c
+	"header.h"
+
+1512319286 source:h:\mydream\mew.c
+	"header.h"
+
+1512359486 source:h:\mydream\modify.c
+	"structure.h"
+	"header.h"
+
+1512316908 source:h:\mydream\modify_staff.c
+	"structure.h"
+	"header.h"
+
+1512354874 source:h:\mydream\option.c
+	"header.h"
+
+1512354864 source:h:\mydream\patient.c
+	"header.h"
+	"structure.h"
+
+1512358478 source:h:\mydream\print.c
+	"structure.h"
+	"header.h"
+
+1512316908 source:h:\mydream\print_staff.c
+	"structure.h"
+	"header.h"
+
+1512358730 source:h:\mydream\read.c
+	"structure.h"
+	"header.h"
+
+1512271252 source:h:\mydream\restore.c
+	"structure.h"
+	"header.h"
+
+1512316908 source:h:\mydream\restore_staff.c
+	"structure.h"
+	"header.h"
+
+1512270156 source:h:\mydream\search.c
+	"structure.h"
+	"header.h"
+
+1512316908 source:h:\mydream\search_staff.c
+	"structure.h"
+	"header.h"
+
+1512317198 source:h:\mydream\staff.c
+	"header.h"
+	"structure.h"
+
